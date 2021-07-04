@@ -4,3 +4,7 @@ strong{
 h1{
     font-weight: 900;
 }
+.farcry{
+    border-top: solid crimson;
+    border-bottom: solid crimson;
+}
