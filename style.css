@@ -5,6 +5,6 @@ h1{
     font-weight: 900;
 }
 .farcry{
-    border-top: solid crimson;
-    border-bottom: solid crimson;
+    border-top: solid crimson 200px;
+    border-bottom: solid crimson 200px;
 }
